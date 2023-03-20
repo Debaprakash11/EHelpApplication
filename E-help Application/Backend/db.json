@@ -1,0 +1,94 @@
+{
+  "user": [
+    {
+      "name": "Amit",
+      "salary": "589423",
+      "company": "jspiders",
+      "id": 1
+    },
+    {
+      "name": "Debaprakash",
+      "salary": "25002",
+      "company": "TCS",
+      "id": 2
+    },
+    {
+      "name": "Prakash",
+      "salary": "300001",
+      "company": "Wipro",
+      "id": 3
+    },
+    {
+      "name": "Ramesh",
+      "salary": "55001",
+      "company": "capge",
+      "id": 4
+    },
+    {
+      "name": "Abhisek",
+      "salary": "45565",
+      "company": "RTech",
+      "id": 5
+    },
+    {
+      "name": "Abhinash",
+      "salary": "45565",
+      "company": "VInno",
+      "id": 6
+    },
+    {
+      "name": "abhisek bachan",
+      "salary": "1545565",
+      "company": "PVR",
+      "id": 7
+    },
+    {
+      "name": "Sibu majhi",
+      "salary": "55285",
+      "company": "Gyan",
+      "id": 8
+    },
+    {
+      "name": "Debabrata",
+      "salary": "70000",
+      "company": "mango",
+      "id": 13
+    },
+    {
+      "name": "Puspa chandan katha",
+      "salary": "50000",
+      "company": "sandel",
+      "id": 16
+    },
+    {
+      "name": "Manisha samal",
+      "salary": "540000",
+      "company": "Zipto",
+      "id": 17
+    },
+    {
+      "name": "Rajesh",
+      "salary": "850000",
+      "company": "Bingo",
+      "id": 18
+    },
+    {
+      "name": "Prajwal",
+      "salary": "89457",
+      "company": "Jspiders",
+      "id": 19
+    },
+    {
+      "name": "bhagat",
+      "salary": "300000",
+      "company": "G-shock",
+      "id": 20
+    },
+    {
+      "name": "amitav",
+      "salary": "89000",
+      "company": "tcs",
+      "id": 21
+    }
+  ]
+}

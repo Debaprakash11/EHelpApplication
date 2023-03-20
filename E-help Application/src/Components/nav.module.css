@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#nav{
+    height:75px;
+    width: 100%;
+    /* background-color: white; */
+    border: 1px solid gainsboro;
+    display: flex;
+    justify-content: center;
+}
+#nav>article{
+    height: 75px;
+    width: 70%;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+}
+#nav>article>.Logo{
+    height: 75px;
+    width: 33.33%;
+    /* background-color: red; */
+}
+#nav>article>.Menu{
+    height: 75px;
+    width: 33.33%;
+    /* background-color: whitesmoke; */
+}
+#nav>article>.Button{
+    height: 75px;
+    width: 33.33%;
+   
+}
+#menuBlock{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: blueviolet; */
+}
+#menuBlock>li>a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: 14px;    
+}
+#logoBlock{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    color: #2D88E2;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: pink; */
+}
+#logoBlock>svg{
+    margin-right: 15px;
+}
+#buttonBlock{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+}
+#buttonBlock>button{
+    height: 35px;
+    width: 140px;
+    background-color: #2D88E2;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#buttonBlock>button>svg{
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+
